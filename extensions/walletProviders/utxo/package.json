@@ -1,9 +1,9 @@
 {
-  "name": "@tatumio/utxo-wallet-provider",
+  "name": "utxo-wallet-provider",
   "version": "1.0.3",
   "description": "UTXO provider with local wallet operations",
   "author": "Tatum",
-  "repository": "https://github.com/tatumio/ecosystem-addons/blob/master/extensions/walletProviders/utxo/README.md",
+  "repository": "https://github.com/dresoeta/ecosystem-addons/blob/master/README.md",
   "files": [
     "dist/"
   ],
@@ -45,7 +45,7 @@
     "bitcore-lib": "^10.0.11",
     "bitcore-lib-doge": "^10.0.11",
     "ecpair": "^2.1.0",
-    "tiny-secp256k1": "^2.2.3",
+    "@bitcoinerlab/secp256k1": "^1.1.1",
     "bignumber.js": "^9.1.2"
   },
   "devDependencies": {

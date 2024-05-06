@@ -16,7 +16,7 @@ import { PrivateKey, Script, Transaction } from 'bitcore-lib'
 // @ts-ignore
 import { PrivateKey as DogePrivateKey, Script as DogeScript, Transaction as DogeTransaction } from 'bitcore-lib-doge'
 import ECPairFactory from 'ecpair'
-import * as ecc from 'tiny-secp256k1'
+import * as ecc from '@bitcoinerlab/secp256k1'
 import {
   BtcBasedTransaction,
   TransactionFromAddress, TransactionFromAddressSource,
