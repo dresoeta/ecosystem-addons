@@ -1,5 +1,5 @@
 {
-  "name": "dresoeta-utxo-wallet-provider",
+  "name": "dresoeta-utxo-provider",
   "version": "1.0.0",
   "description": "UTXO provider with local wallet operations",
   "author": "Tatum",
