@@ -1,9 +1,9 @@
 {
-  "name": "utxo-wallet-provider",
-  "version": "1.0.3",
+  "name": "dresoeta-utxo-wallet-provider",
+  "version": "1.0.0",
   "description": "UTXO provider with local wallet operations",
   "author": "Tatum",
-  "repository": "https://github.com/dresoeta/ecosystem-addons/blob/master/README.md",
+  "repository": "https://github.com/dresoeta/ecosystem-addons/blob/master/extensions/walletProviders/utxo/README.md",
   "files": [
     "dist/"
   ],
